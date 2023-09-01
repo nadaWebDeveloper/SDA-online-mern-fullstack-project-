@@ -1,3 +1,11 @@
+This repository is meant to be empty. You currently have a working frontend and backend in two different repositories.
+
+
+For this assignment, you would keep them the way they are (separated), meaning you would run them separately and have them talk to each other.
+
+
+This repository is to open a PR and leave a comment to share the links of your frontend and backend PRs that you already have (from previous assignments).
+
 ## Level 1: Basic Requirements
 
 
