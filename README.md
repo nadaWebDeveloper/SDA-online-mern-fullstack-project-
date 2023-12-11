@@ -11,7 +11,7 @@ If you didn't fork from your team lead backend repo. you should fork from your t
 
 `Front-end PR Link:` https://github.com/Integrify-Finland/SDA-online-frontend-project/pull/2
 
-`Back-end PR Link:` https://github.com/Integrify-Finland/SDA-online-mern-fullstack-project/pull/8
+`Back-end PR Link:` [https://github.com/Integrify-Finland/SDA-online-mern-fullstack-project/pull/8](https://github.com/Integrify-Finland/SDA-online-mern-backend-project/pull/67)
 
 ## Level 1: Basic Requirements
 ### `Follow the steps below in the order displayed.`
